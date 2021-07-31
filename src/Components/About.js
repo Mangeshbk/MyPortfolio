@@ -24,7 +24,7 @@ class About extends Component {
          <div className="nine columns main-col">
             <h2>About Me</h2>
 
-            <p>Always eager to learn new skills and explore efficient ways of solving problems. Enthusiastic to start a career in an existing tech company that allows growth and continued learning.<br /><br />
+            <p>Enthusiastic to start a career in an existing tech company that allows growth and continued learning. Always eager to learn new skills and explore efficient ways of solving problems. <br /><br />
 
             I just graduated from the Full Stack Developer Bootcamp from Masai School and I am now looking for my first full time development role with room to grow and learn. I find the creativity and visual aspects of Frontend and Backend very interesting and would love the opportunity to grasp more about Web Development.</p>
             <div className="row">
