@@ -70,7 +70,7 @@ This project was built using these technologies.
 
 ## Usage
 
-To have this app on your pc, you need to:
+<!-- To have this app on your pc, you need to:
 * [download](https://github.com/rammazzoti2000/personal_portfolio/archive/development.zip) or clone this repo:
   - Clone with SSH:
   ```
@@ -79,7 +79,7 @@ To have this app on your pc, you need to:
   - Clone with HTTPS
   ```
     https://github.com/rammazzoti2000/personal_portfolio.git
-  ```
+  ``` -->
 
 * In the project directory, you can run:
 
@@ -100,9 +100,9 @@ To have this app on your pc, you need to:
   > There are no Automated Test for this project
 
 <!-- LIVE VERSION -->
-## Live version
+<!-- ## Live version
 
-You can see it [here](https://www.alex-portfolio.org/)
+You can see it [here](https://www.alex-portfolio.org/) -->
 
 
 
