@@ -44,7 +44,7 @@
 </p> -->
 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
+<!-- ## Table of Contents
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
@@ -52,12 +52,12 @@
 * [Automated Test](#automated-test)
 * [Author](#author)
 * [Contributing](#contributing)
-* [Acknowledgements](#acknowledgements)
+* [Acknowledgements](#acknowledgements) -->
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://rammazzoti2000.github.io/personal_portfolio/)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://rammazzoti2000.github.io/personal_portfolio/) -->
 
 This project represents my personal Portfolio and features some of my github projects
 
@@ -65,11 +65,8 @@ This project represents my personal Portfolio and features some of my github pro
 This project was built using these technologies.
 * React
 * ES6
-* Node.js
 * HTML
 * CSS3
-* VsCode
-* Netlify Forms
 
 ## Usage
 
