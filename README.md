@@ -13,15 +13,15 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 ![Hireable](https://cdn.rawgit.com/hiendv/hireable/master/styles/default/yes.svg)
-[![Netlify][netlify-shield]][netlify-url]
+[![Netlify][netlify-shield]][netlify-url] -->
 
 <!-- PROJECT LOGO -->
-<br />
+<!-- <br />
 <p align="center">
   <a href="https://github.com/rammazzoti2000/personal_portfolio">
     <img src="public/images/microverse.png" alt="Logo" width="80" height="80">
@@ -41,7 +41,7 @@
     ·
     <a href="https://github.com/rammazzoti2000/personal_portfolio/issues">Request Feature</a>
   </p>
-</p>
+</p> -->
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
