@@ -325,9 +325,11 @@ section .skills {
 
 section .skills .technology {
    cursor: pointer;
-   padding: 30px;
-   margin: 0 20px;
+   padding: 20px;
+   margin: 20px 40px;
    border-radius: 5px;
+   border: 1px solid;
+
 }
 
 section .skills .technology:hover {
@@ -697,6 +699,7 @@ section .skills .technology:hover {
    padding: 3px;
    border-radius: 5px;
    margin-left: 16px;
+
  }
  ul.actions .languages .technology:hover {
    background-color: #f06000;
