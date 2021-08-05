@@ -328,9 +328,12 @@ section .skills .technology {
    padding: 20px;
    margin: 20px 40px;
    border-radius: 5px;
-   border: 1px solid;
+   border: 2px solid #191919;
+   color: #191919;
+   /* background-color: #00CCCC; */
 
 }
+
 
 section .skills .technology:hover {
    background-color: #11ABB0;

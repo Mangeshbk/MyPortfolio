@@ -56,12 +56,12 @@ class Portfolio extends Component {
                         </li>
                       </div>
                       <div className="languages">
-                        {/* <i className="devicon-css3-plain-wordmark colored technology"></i> */}
-                        <i className="devicon-react-plain-wordmark colored technology"></i>
-                        <i className="devicon-redux-original colored technology"></i>
-                        {/* <i className="devicon-mongodb-plain-wordmark colored technology"></i> */}
-                        <i className="devicon-nodejs-plain colored technology"></i>
-                        {/* <i className="devicon-materialui-plain colored technology"></i> */}
+                        {/* <i className="devicon-css3-plain-wordmark technology"></i> */}
+                        <i className="devicon-react-plain-wordmark technology"></i>
+                        <i className="devicon-redux-original technology"></i>
+                        {/* <i className="devicon-mongodb-plain-wordmark technology"></i> */}
+                        <i className="devicon-nodejs-plain technology"></i>
+                        {/* <i className="devicon-materialui-plain technology"></i> */}
                       </div>
                     </ul>
                   </div>
@@ -115,9 +115,9 @@ class Portfolio extends Component {
                         </li>
                       </div>
                       <div className="languages">
-                        <i className="devicon-css3-plain-wordmark colored technology"></i>
-                        <i className="devicon-react-plain-wordmark colored technology"></i>
-                        <i className="devicon-redux-original colored technology"></i>
+                        <i className="devicon-css3-plain-wordmark technology"></i>
+                        <i className="devicon-react-plain-wordmark technology"></i>
+                        <i className="devicon-redux-original technology"></i>
                       </div>
                     </ul>
                   </div>
@@ -171,8 +171,8 @@ class Portfolio extends Component {
                         </li>
                       </div>
                       <div className="languages">
-                        <i className="devicon-html5-plain-wordmark colored technology"></i>
-                        <i className="devicon-css3-plain-wordmark colored technology"></i>
+                        <i className="devicon-html5-plain-wordmark technology"></i>
+                        <i className="devicon-css3-plain-wordmark technology"></i>
                         <i className="devicon-javascript-plain technology"></i>
                       </div>
                     </ul>
@@ -226,8 +226,8 @@ class Portfolio extends Component {
                         </li>
                       </div>
                       <div className="languages">
-                        <i className="devicon-html5-plain-wordmark colored technology"></i>
-                        <i className="devicon-css3-plain-wordmark colored technology"></i>
+                        <i className="devicon-html5-plain-wordmark technology"></i>
+                        <i className="devicon-css3-plain-wordmark technology"></i>
                         <i className="devicon-javascript-plain technology"></i>
                       </div>
                     </ul>
